@@ -4,11 +4,11 @@ I'm a third year University student at Birzeit University. I enjoy learning and 
 [LinkedIn](https://www.linkedin.com/in/salem-mufarreh-41a26621b/)
 
 ## Education
--### **Birzeit University**, Ranallah
+### - **Birzeit University**, Ranallah
 >Bachelor of Science, Computer science, Present
--### **Greek Catholic School**, Ramallah
+### -**Greek Catholic School**, Ramallah
 >High School Diploma, Jun. 2019
--### **Code For Palestine**, Ramllah
+### -**Code For Palestine**, Ramllah
 >Computer Science, Computer Science, Sep. 2018
 
 
