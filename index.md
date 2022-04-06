@@ -1,17 +1,24 @@
 # Hi, I'm Salem Mufarreh
 I'm a third year University student at Birzeit University. I enjoy learning and love to expand my knowlege.
-[Email](salemmuf9@gmail.com)
+[Email](salemmuf9@gmail.com) | 
 [LinkedIn](https://www.linkedin.com/in/salem-mufarreh-41a26621b/)
 
 ## Education
-### - **Birzeit University**, Ranallah
+### **Birzeit University**, Ramallah
 >Bachelor of Science, Computer science, Present
-### -**Greek Catholic School**, Ramallah
+### **Greek Catholic School**, Ramallah
 >High School Diploma, Jun. 2019
-### -**Code For Palestine**, Ramllah
+### **Code For Palestine**, Ramllah
 >Computer Science, Computer Science, Sep. 2018
 
-
+## Projects
+1. **BulkyBook**
+   - >Books trading website using MVC Core 5.0 and MYSQL server.
+     Using ASP.NET MVC Core 5.0.
+2. **Clinic management system**
+  - >Mange clients visits and profit per doctor
+    Using Python and Flask.
+    
 
 ```markdown
 Syntax highlighted code block
