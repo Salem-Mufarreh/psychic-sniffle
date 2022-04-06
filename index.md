@@ -1,12 +1,17 @@
-## Welcome to GitHub Pages
-## Hi, I'm Salem Mufarreh
-You can use the [editor on GitHub](https://github.com/Salem-Mufarreh/psychic-sniffle/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Hi, I'm Salem Mufarreh
+I'm a third year University student at Birzeit University. I enjoy learning and love to expand my knowlege.
+[Email](salemmuf9@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/salem-mufarreh-41a26621b/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Education
+-### **Birzeit University**, Ranallah
+>Bachelor of Science, Computer science, Present
+-### **Greek Catholic School**, Ramallah
+>High School Diploma, Jun. 2019
+-### **Code For Palestine**, Ramllah
+>Computer Science, Computer Science, Sep. 2018
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
