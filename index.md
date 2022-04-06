@@ -1,7 +1,29 @@
-# Hi, I'm Salem Mufarreh
+
+## Hi, I'm Salem Mufarreh
 I'm a third year University student at Birzeit University. I enjoy learning and love to expand my knowlege.
 [Email](salemmuf9@gmail.com) | 
 [LinkedIn](https://www.linkedin.com/in/salem-mufarreh-41a26621b/)
+
+## **Employment History**
+- Developer Intern, Experts Turnkey Solutions. Ramallah
+   > 2022 – Present
+   - Implement UI using Django Python, HTML, CSS, JavaScript, PHP.
+   - Created Database using Oracle Servers.
+   - Developed some PL/SQL statements.
+   - Created and implemented some Popup Windows using JavaScript.
+- Worker, Zarour supermarket. Ramallah
+   > Nov. 2021 – Feb. 2022
+- ASP.NET Developer Intern, Ultimit. Ramallah
+   > Jun. 2021 – Jul. 2021
+   - Developed web parts using code and debugging skills with ASP.NET.
+   - Implemented UI using MVC 5.0, Razor HTML, CSS, JavaScript, AJAX, and web form controls to create responsive web pages.
+   - Created Database from scratch using Code First approach.
+   - Developed code for auto-complete function using AJAX and JQuery.
+   - Created and implemented Partial View to uses repeatedly.
+- Teacher assistant, Paltel group foundation. Ramallah
+   > Jun. 2020 – Aug. 2020
+   - Helped students improve their understanding about programming. 
+   - Assisted the teacher on implementing programming material to the class like coding examples. 
 
 ## Education
 ### **Birzeit University**, Ramallah
@@ -13,13 +35,12 @@ I'm a third year University student at Birzeit University. I enjoy learning and 
 
 ## Projects
 1. **BulkyBook**
-   - >Books trading website using MVC Core 5.0 and MYSQL server.
+   - Books trading website using MVC Core 5.0 and MYSQL server.
      Using ASP.NET MVC Core 5.0.
 2. **Clinic management system**
-  - >Mange clients visits and profit per doctor
+    - Mange clients visits and profit per doctor
     Using Python and Flask.
     
-
 ```markdown
 Syntax highlighted code block
 
